@@ -1,0 +1,183 @@
+[{
+        "name": "Shopska Salata",
+        "typeOfDish": "Salad",
+        "cookingTime": "20 minutes",
+        "ingredients": [{
+                "quantity": "4",
+                "name": "tomatoes",
+                "type": "Vegetable",
+                "optional": false
+            },
+            {
+                "quantity": "2",
+                "name": "cucumbers",
+                "type": "Vegetable",
+                "optional": false
+            },
+            {
+                "quantity": "1",
+                "name": "red onion",
+                "type": "Vegetable",
+                "optional": false
+            },
+            {
+                "quantity": "1",
+                "name": "green pepper",
+                "type": "Vegetable",
+                "optional": false
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "olive oil",
+                "type": "Condiments",
+                "optional": false
+            },
+            {
+                "quantity": "1/2 cup or more",
+                "name": "of sirine cheese or sheep feta cheese grated",
+                "type": "Produce",
+                "optional": false
+            },
+            {
+                "quantity": "",
+                "name": "Parsley chopped",
+                "type": "Herbs",
+                "optional": true
+            },
+            {
+                "quantity": "",
+                "name": "Olives",
+                "type": "Vegetable",
+                "optional": true
+            }
+        ],
+        "instructions": [{
+            "heading": "Preparing the Crust",
+            "steps": [
+                "1. Put all the vegetables in a large bowl and drizzle with olive oil.",
+                "2. Mix all together and separate into four bowls or plates.",
+                "3. Cover with cheese as much as you like.",
+                "4. Garnish with parsley and olives if using.",
+                "5. Serve immediately."
+            ]
+        }],
+        "imageURL": "https://www.internationalcuisine.com/wp-content/uploads/2016/07/Macedonian-Shopska-salad-684x1024.jpg",
+        "originalURL": "https://www.internationalcuisine.com/macedonian-shopska-salad/"
+    },
+    {
+        "name": "Zelnik",
+        "typeOfDish": "Pie",
+        "cookingTime": "20 minutes",
+        "ingredients": [{
+                "quantity": "700 grams",
+                "name": "white flour",
+                "type": "Baking",
+                "optional": false
+            },
+            {
+                "quantity": "250 grams",
+                "name": "butter or margarine",
+                "type": "Produce",
+                "optional": false
+            },
+            {
+                "quantity": "4",
+                "name": "eggs (beaten, 2 for crust and 2 for filling)",
+                "type": "Eggs",
+                "optional": false
+            },
+            {
+                "quantity": "1 cup",
+                "name": "water",
+                "type": "Water",
+                "optional": false
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "vinegar",
+                "type": "Condiments",
+                "optional": false
+            },
+            {
+                "quantity": "3 tbsp",
+                "name": "oil",
+                "type": "Condiments",
+                "optional": false
+            },
+            {
+                "quantity": "2 tbsp",
+                "name": "salt (1 tbsp for crust, 1 tbsp for filling)",
+                "type": "Condiments",
+                "optional": false
+            },
+            {
+                "quantity": "250 grams",
+                "name": "white cheese",
+                "type": "Produce",
+                "optional": true
+            },
+            {
+                "quantity": "1/5 kg",
+                "name": "cabbage or spinach",
+                "type": "Vegetable",
+                "optional": true
+            },
+            {
+                "quantity": "2",
+                "name": "leeks",
+                "type": "Vegetable",
+                "optional": false
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "black pepper",
+                "type": "Condiments",
+                "optional": true
+            }
+        ],
+        "instructions": [{
+                "heading": "Preparing the Crust",
+                "steps": [
+                    "1. Combine all the ingredients except for the butter/margarine.",
+                    "2. Knead the dough until reaching a springy consistency. Add water or flour if necessary.",
+                    "3. Whack the dough against the table a few times (for consistency)",
+                    "4. Let the dough rest for around 45 minutes.",
+                    "5. Cut the dough into two pieces and spread them nicely with some melted butter."
+                ]
+            },
+            {
+                "heading": "Preparing the Filling",
+                "steps": [
+                    "1. Wash the cabbage/spinach and squeeze out the moisture (as much as possible).",
+                    "2. Cut the white cheese into tiny crumbles.",
+                    "3. Beat the eggs.",
+                    "4. Combine everything together (including other optional ingredients)."
+                ]
+            },
+            {
+                "heading": "Baking the Pie",
+                "steps": [
+                    "1. Set the oven to 380 F (250 degrees Celcius).",
+                    "2. Use a thin rolling pin to roll out the first piece of dough.",
+                    "3. After rolling out the dough, lay it in the pan and make sure it 's spread out evenly.",
+                    "4. Brush some melted butter on the top.",
+                    "5. Roll out the second piece of dough.Pull it with your fingers and make sure you stretch.it as much as possible. Don 't worry if there are tiny holes.",
+                    "6. Add the filling to the frying pan.",
+                    "7. Pick up the top dough with the rolling pin and make plenty of ripples with the filling.",
+                    "8. Adjust the layers and make sure everything is covered.",
+                    "9. Brush some melted butter on the top and turn down the edges with a slight twisting motion.",
+                    "10. Add the zelnik to the oven and bake for 30 - 35 minutes.Remove when the top starts getting a light brown color."
+                ]
+            },
+            {
+                "heading": "Notes",
+                "steps": [
+                    "* Don 't add the filling before completing the second layer. I know this sounds tempting, but if the first layer sits too long, the bottom dough can get quite soggy and ruin the whole recipe.",
+                    "* When baking, check the oven after 15 - 20 minutes. If the top already starts getting brown, add some parchment paper on the top to make sure the zelnik doesn't burn."
+                ]
+            }
+        ],
+        "imageURL": "https://thefoodhog.com/wp-content/uploads/2020/07/turkish-food-1379215_1920-546x728.jpg.webp",
+        "originalURL": "https://thefoodhog.com/zelnik-recipe/"
+    }
+]

@@ -1,13 +1,3 @@
-// const app = require('express')();
-// const PORT = 8080;
-
-// app.listen(
-//     PORT,
-//     () => console.log(`live on http://localhost${PORT}`)
-// );
-
-// app.get('/food');
-
 const express = require('express');
 const app = express();
 
