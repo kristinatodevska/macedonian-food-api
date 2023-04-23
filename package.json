@@ -1,0 +1,15 @@
+{
+    "name": "macedonian-food-recommender",
+    "version": "1.0.0",
+    "description": "Recommending the best cuisine from North Macedonia.",
+    "main": "assets/js/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Kristina Todevska",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
