@@ -1,4 +1,6 @@
-[{
+{
+    "1": {
+        "id": 1,
         "name": "Shopska Salata",
         "typeOfDish": "Salad",
         "cookingTime": "20 minutes",
@@ -64,7 +66,8 @@
         "imageURL": "https://www.internationalcuisine.com/wp-content/uploads/2016/07/Macedonian-Shopska-salad-684x1024.jpg",
         "originalURL": "https://www.internationalcuisine.com/macedonian-shopska-salad/"
     },
-    {
+    "2": {
+        "id": 2,
         "name": "Zelnik",
         "typeOfDish": "Pie",
         "cookingTime": "20 minutes",
@@ -180,4 +183,4 @@
         "imageURL": "https://thefoodhog.com/wp-content/uploads/2020/07/turkish-food-1379215_1920-546x728.jpg.webp",
         "originalURL": "https://thefoodhog.com/zelnik-recipe/"
     }
-]
+}
