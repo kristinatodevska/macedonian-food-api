@@ -43,5 +43,59 @@
         "vegan": false,
         "time": "1 hr 30 mins",
         "url": "https://diethood.com/traditional-baklava-recipe/"
+    },
+    "6": {
+        "id": 6,
+        "name": "Macedonian Baked Beans (Tavče Gravče)",
+        "type": "Casserole",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "1 hr 40 mins",
+        "url": "https://balkanlunchbox.com/pan-baked-beans-balkan-macedonian-baked-beans-tavce-gravce/"
+    },
+    "7": {
+        "id": 7,
+        "name": "Gravče na Tavče: Quick Version of Macedonian Baked Beans",
+        "type": "Casserole",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "50 mins",
+        "url": "https://balkanlunchbox.com/gravce-na-tavce-macedonian-baked-beans/"
+    },
+    "8": {
+        "id": 8,
+        "name": "Old Fashioned Beef Vegetable Noodle Soup",
+        "type": "Soup",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "2 hrs 10 mins",
+        "url": "https://balkanlunchbox.com/beef-noodle-soup-govedja-supica-recipe-2/"
+    },
+    "9": {
+        "id": 9,
+        "name": "Pan Fried Chicken Liver and Onions",
+        "type": "Manza",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "30 mins",
+        "url": "https://balkanlunchbox.com/chicken-liver-sauce-sos-od-pilece-dzigerice/"
+    },
+    "10": {
+        "id": 10,
+        "name": "Pogacha (Pogača): Traditional Balkan Bread Without Yeast",
+        "type": "Bread",
+        "vegetarian": true,
+        "vegan": false,
+        "time": "1 hr",
+        "url": "https://balkanlunchbox.com/pogacha-traditional-balkan-bread/"
+    },
+    "5": {
+        "id": 5,
+        "name": "​Piperki Polneti - Stuffed Peppers from North Macedonia",
+        "type": "Dolma",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "1 hr 30 mins",
+        "url": "https://www.travelbyfood.eu/piperki-polneti"
     }
 }
