@@ -2,185 +2,46 @@
     "1": {
         "id": 1,
         "name": "Shopska Salata",
-        "typeOfDish": "Salad",
-        "cookingTime": "20 minutes",
-        "ingredients": [{
-                "quantity": "4",
-                "name": "tomatoes",
-                "type": "Vegetable",
-                "optional": false
-            },
-            {
-                "quantity": "2",
-                "name": "cucumbers",
-                "type": "Vegetable",
-                "optional": false
-            },
-            {
-                "quantity": "1",
-                "name": "red onion",
-                "type": "Vegetable",
-                "optional": false
-            },
-            {
-                "quantity": "1",
-                "name": "green pepper",
-                "type": "Vegetable",
-                "optional": false
-            },
-            {
-                "quantity": "1 tbsp",
-                "name": "olive oil",
-                "type": "Condiments",
-                "optional": false
-            },
-            {
-                "quantity": "1/2 cup or more",
-                "name": "of sirine cheese or sheep feta cheese grated",
-                "type": "Produce",
-                "optional": false
-            },
-            {
-                "quantity": "",
-                "name": "Parsley chopped",
-                "type": "Herbs",
-                "optional": true
-            },
-            {
-                "quantity": "",
-                "name": "Olives",
-                "type": "Vegetable",
-                "optional": true
-            }
-        ],
-        "instructions": [{
-            "heading": "Preparing the Crust",
-            "steps": [
-                "Put all the vegetables in a large bowl and drizzle with olive oil.",
-                "Mix all together and separate into four bowls or plates.",
-                "Cover with cheese as much as you like.",
-                "Garnish with parsley and olives if using.",
-                "Serve immediately."
-            ]
-        }],
-        "imageURL": "https://www.internationalcuisine.com/wp-content/uploads/2016/07/Macedonian-Shopska-salad-684x1024.jpg",
-        "originalURL": "https://www.internationalcuisine.com/macedonian-shopska-salad/"
+        "type": "Salad",
+        "vegetarian": true,
+        "vegan": false,
+        "time": "20 mins",
+        "url": "https://www.internationalcuisine.com/macedonian-shopska-salad/"
     },
     "2": {
         "id": 2,
         "name": "Zelnik",
-        "typeOfDish": "Pie",
-        "cookingTime": "20 minutes",
-        "ingredients": [{
-                "quantity": "700 grams",
-                "name": "white flour",
-                "type": "Baking",
-                "optional": false
-            },
-            {
-                "quantity": "250 grams",
-                "name": "butter or margarine",
-                "type": "Produce",
-                "optional": false
-            },
-            {
-                "quantity": "4",
-                "name": "eggs (beaten, 2 for crust and 2 for filling)",
-                "type": "Eggs",
-                "optional": false
-            },
-            {
-                "quantity": "1 cup",
-                "name": "water",
-                "type": "Water",
-                "optional": false
-            },
-            {
-                "quantity": "1 teaspoon",
-                "name": "vinegar",
-                "type": "Condiments",
-                "optional": false
-            },
-            {
-                "quantity": "3 tbsp",
-                "name": "oil",
-                "type": "Condiments",
-                "optional": false
-            },
-            {
-                "quantity": "2 tbsp",
-                "name": "salt (1 tbsp for crust, 1 tbsp for filling)",
-                "type": "Condiments",
-                "optional": false
-            },
-            {
-                "quantity": "250 grams",
-                "name": "white cheese",
-                "type": "Produce",
-                "optional": true
-            },
-            {
-                "quantity": "1/5 kg",
-                "name": "cabbage or spinach",
-                "type": "Vegetable",
-                "optional": true
-            },
-            {
-                "quantity": "2",
-                "name": "leeks",
-                "type": "Vegetable",
-                "optional": false
-            },
-            {
-                "quantity": "1 teaspoon",
-                "name": "black pepper",
-                "type": "Condiments",
-                "optional": true
-            }
-        ],
-        "instructions": [{
-                "heading": "Preparing the Crust",
-                "steps": [
-                    "Combine all the ingredients except for the butter/margarine.",
-                    "Knead the dough until reaching a springy consistency. Add water or flour if necessary.",
-                    "Whack the dough against the table a few times (for consistency)",
-                    "Let the dough rest for around 45 minutes.",
-                    "Cut the dough into two pieces and spread them nicely with some melted butter."
-                ]
-            },
-            {
-                "heading": "Preparing the Filling",
-                "steps": [
-                    "Wash the cabbage/spinach and squeeze out the moisture (as much as possible).",
-                    "Cut the white cheese into tiny crumbles.",
-                    "Beat the eggs.",
-                    "Combine everything together (including other optional ingredients)."
-                ]
-            },
-            {
-                "heading": "Baking the Pie",
-                "steps": [
-                    "Set the oven to 380 F (250 degrees Celcius).",
-                    "Use a thin rolling pin to roll out the first piece of dough.",
-                    "After rolling out the dough, lay it in the pan and make sure it 's spread out evenly.",
-                    "Brush some melted butter on the top.",
-                    "Roll out the second piece of dough.Pull it with your fingers and make sure you stretch.it as much as possible. Don 't worry if there are tiny holes.",
-                    "Add the filling to the frying pan.",
-                    "Pick up the top dough with the rolling pin and make plenty of ripples with the filling.",
-                    "Adjust the layers and make sure everything is covered.",
-                    "Brush some melted butter on the top and turn down the edges with a slight twisting motion.",
-                    "Add the zelnik to the oven and bake for 30 - 35 minutes.Remove when the top starts getting a light brown color."
-                ]
-            },
-            {
-                "heading": "Notes",
-                "steps": [
-                    "* Don't add the filling before completing the second layer. I know this sounds tempting, but if the first layer sits too long, the bottom dough can get quite soggy and ruin the whole recipe.",
-                    "* When baking, check the oven after 15 - 20 minutes. If the top already starts getting brown, add some parchment paper on the top to make sure the zelnik doesn't burn."
-                ]
-            }
-        ],
-        "imageURL": "https://thefoodhog.com/wp-content/uploads/2020/07/turkish-food-1379215_1920-546x728.jpg.webp",
-        "originalURL": "https://thefoodhog.com/zelnik-recipe/"
+        "type": "Pie",
+        "vegetarian": true,
+        "vegan": false,
+        "time": "1 hr 50 mins",
+        "url": "https://thefoodhog.com/zelnik-recipe/"
+    },
+    "3": {
+        "id": 3,
+        "name": "Cabbage Sarma",
+        "type": "Dolma",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "2 hr 25 mins",
+        "url": "https://thecitylane.com/sarma-macedonian-cabbage-rolls-recipe/"
+    },
+    "4": {
+        "id": 4,
+        "name": "Vegan Cabbage Sarma",
+        "type": "Dolma",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "1 hr 45 mins",
+        "url": "https://diethood.com/macedonian-cabbage-rolls/"
+    },
+    "5": {
+        "id": 5,
+        "name": "Baklava",
+        "type": "Dessert",
+        "vegetarian": true,
+        "vegan": false,
+        "time": "1 hr 30 mins",
+        "url": "https://diethood.com/traditional-baklava-recipe/"
     }
 }
