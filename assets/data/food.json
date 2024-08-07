@@ -5,7 +5,7 @@
         "type": "Salad",
         "vegetarian": true,
         "vegan": false,
-        "time": "20 mins",
+        "time": "< 30 mins",
         "url": "https://www.internationalcuisine.com/macedonian-shopska-salad/"
     },
     "2": {
@@ -14,7 +14,7 @@
         "type": "Pie",
         "vegetarian": true,
         "vegan": false,
-        "time": "1 hr 50 mins",
+        "time": "< 2 hours",
         "url": "https://thefoodhog.com/zelnik-recipe/"
     },
     "3": {
@@ -23,7 +23,7 @@
         "type": "Dolma",
         "vegetarian": false,
         "vegan": false,
-        "time": "2 hr 25 mins",
+        "time": "< 3 hours",
         "url": "https://thecitylane.com/sarma-macedonian-cabbage-rolls-recipe/"
     },
     "4": {
@@ -32,7 +32,7 @@
         "type": "Dolma",
         "vegetarian": true,
         "vegan": true,
-        "time": "1 hr 45 mins",
+        "time": "< 2 hours",
         "url": "https://diethood.com/macedonian-cabbage-rolls/"
     },
     "5": {
@@ -41,7 +41,7 @@
         "type": "Dessert",
         "vegetarian": true,
         "vegan": false,
-        "time": "1 hr 30 mins",
+        "time": "< 2 hours",
         "url": "https://diethood.com/traditional-baklava-recipe/"
     },
     "6": {
@@ -50,7 +50,7 @@
         "type": "Casserole",
         "vegetarian": true,
         "vegan": true,
-        "time": "1 hr 40 mins",
+        "time": "< 2 hours",
         "url": "https://balkanlunchbox.com/pan-baked-beans-balkan-macedonian-baked-beans-tavce-gravce/"
     },
     "7": {
@@ -59,7 +59,7 @@
         "type": "Casserole",
         "vegetarian": true,
         "vegan": true,
-        "time": "50 mins",
+        "time": "< 1 hour",
         "url": "https://balkanlunchbox.com/gravce-na-tavce-macedonian-baked-beans/"
     },
     "8": {
@@ -68,7 +68,7 @@
         "type": "Soup",
         "vegetarian": false,
         "vegan": false,
-        "time": "2 hrs 10 mins",
+        "time": "< 3 hours",
         "url": "https://balkanlunchbox.com/beef-noodle-soup-govedja-supica-recipe-2/"
     },
     "9": {
@@ -77,7 +77,7 @@
         "type": "Manza",
         "vegetarian": false,
         "vegan": false,
-        "time": "30 mins",
+        "time": "< 30 mins",
         "url": "https://balkanlunchbox.com/chicken-liver-sauce-sos-od-pilece-dzigerice/"
     },
     "10": {
@@ -86,16 +86,97 @@
         "type": "Bread",
         "vegetarian": true,
         "vegan": false,
-        "time": "1 hr",
+        "time": "< 1 hour",
         "url": "https://balkanlunchbox.com/pogacha-traditional-balkan-bread/"
     },
-    "5": {
-        "id": 5,
+    "11": {
+        "id": 11,
         "name": "​Piperki Polneti - Stuffed Peppers from North Macedonia",
         "type": "Dolma",
         "vegetarian": false,
         "vegan": false,
-        "time": "1 hr 30 mins",
+        "time": "< 2 hours",
         "url": "https://www.travelbyfood.eu/piperki-polneti"
+    },
+    "12": {
+        "id": 12,
+        "name": "Macedonian susamliji (sesame cookies)",
+        "type": "Dessert",
+        "vegetarian": true,
+        "vegan": false,
+        "time": "< 1 hour",
+        "url": "https://www.olivemagazine.com/recipes/chef-recipes/macedonian-susamliji-sesame-cookies/"
+    },
+    "13": {
+        "id": 13,
+        "name": "Ajvar",
+        "type": "Relish",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "< 30 mins",
+        "url": "https://www.olivemagazine.com/recipes/entertain/ajvar/"
+    },
+    "14": {
+        "id": 14,
+        "name": "Macedonian Lutenica",
+        "type": "Relish",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "< 1 hour",
+        "url": "https://www.macedoniancuisine.com/2017/09/macedonian-lutenica.html"
+    },
+    "15": {
+        "id": 15,
+        "name": "Torn peppers (Kinati piperki)",
+        "type": "Relish",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "< 1 hour",
+        "url": "https://www.macedoniancuisine.com/2018/10/torn-peppers-kinati-piperki.html"
+    },
+    "16": {
+        "id": 16,
+        "name": "Macedonian Pickles (Turshiya)",
+        "type": "Relish",
+        "vegetarian": true,
+        "vegan": true,
+        "time": "< 2 hours",
+        "url": "https://www.macedoniancuisine.com/2019/10/macedonian-pickles-relish.html"
+    },
+    "17": {
+        "id": 17,
+        "name": "Nettles stew (Chorba od koprivi)",
+        "type": "Soup",
+        "vegetarian": true,
+        "vegan": false,
+        "time": "< 1 hour",
+        "url": "https://www.macedoniancuisine.com/2023/05/nettles-stew.html"
+    },
+    "18": {
+        "id": 18,
+        "name": "Macedonian moussaka with potatoes and minced meat (Musaka)",
+        "type": "Casserole",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "< 1 hour",
+        "url": "https://www.macedoniancuisine.com/2016/01/macedonian-moussaka-with-potatoes-and.html"
+    },
+    "19": {
+        "id": 19,
+        "name": "Kebapi",
+        "type": "Grilled",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "< 30 min",
+        "url": "https://www.macedoniancuisine.com/2016/01/kebapi.html"
+    },
+    "20": {
+        "id": 20,
+        "name": "Vine leaves sarma",
+        "type": "Dolma",
+        "vegetarian": false,
+        "vegan": false,
+        "time": "< 2 hours",
+        "url": "https://www.macedoniancuisine.com/2016/01/vine-leaves-sarma.html"
     }
 }

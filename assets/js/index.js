@@ -1,13 +1,13 @@
 const express = require('express');
+const bodyParser = require('body-parser');
 const app = express();
+const fs = require('fs');
 
-app.use(express.json());
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/food', (req, res) => {
-    res.status(200).send({
-        name: 'Sarma',
-        time: '1 hour'
-    })
+const routes = require('./routes.js')(app, fs);
+
+const server = app.listen(8080, () => {
+    console.log('listening on port %s...', server.address().port);
 });
-
-app.listen(8080, '0.0.0.0', () => console.log(`listening on port 8080`));

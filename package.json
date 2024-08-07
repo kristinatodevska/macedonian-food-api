@@ -4,7 +4,7 @@
     "description": "Recommending the best cuisine from North Macedonia.",
     "main": "assets/js/index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "nodemon assets/js/index.js"
     },
     "keywords": [],
     "author": "Kristina Todevska",
