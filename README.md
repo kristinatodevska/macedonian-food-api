@@ -1,3 +1,3 @@
-# macedonian-food-recommender
+# WORK IN PROGRESS
  
 Recommending the best cuisine from North Macedonia.
